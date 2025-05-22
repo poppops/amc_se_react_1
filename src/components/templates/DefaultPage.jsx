@@ -19,6 +19,9 @@ function DefaultPage({ props, children }) {
                         <li>
                             <Link to="/product/12">Product</Link>
                         </li>
+                        <li>
+                            <Link to="/login">Login</Link>
+                        </li>
                     </ul>
                 </nav>
             </div>
